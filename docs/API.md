@@ -1,5 +1,3 @@
-To create a good API documentation for your Flask application, you can follow the structure provided earlier. Here's how you can summarize and organize the endpoints and their descriptions from your code:
-
 ### API Documentation
 
 #### Authentication Endpoints
@@ -292,5 +290,3 @@ To create a good API documentation for your Flask application, you can follow th
 
 - Ensure to replace placeholder URLs and method descriptions with actual endpoints and specific details from your application.
 - Consider adding more detailed descriptions for each endpoint, especially inputs and expected outputs.
-
-This structure should help you create a comprehensive API documentation for your Flask application based on the provided code snippets. Adjust and expand it further based on your specific requirements and business logic.
